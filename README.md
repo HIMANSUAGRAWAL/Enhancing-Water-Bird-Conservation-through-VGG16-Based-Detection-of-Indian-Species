@@ -34,14 +34,6 @@ The model achieved outstanding results, particularly in identifying the White-Br
 - **Accuracy**: The model demonstrated an impressive accuracy of 92.69%, making it a highly reliable tool for bird species detection.
 - **Wildlife Conservation**: The successful detection of various waterbird species can assist in ecological research and conservation activities aimed at protecting these species in their natural habitat.
   
-## Usage
-
-To use the model, simply clone the repository and follow the instructions in the installation and usage section below.
-
-```bash
-git clone https://github.com/your-username/indian-waterbird-identification.git
-cd indian-waterbird-identification
-```
 
 ### Requirements:
 - Python 3.x
@@ -50,29 +42,6 @@ cd indian-waterbird-identification
 - Matplotlib
 - OpenCV
 
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Running the Model:
-To train the model, run:
-
-```bash
-python train_model.py
-```
-
-To make predictions, run:
-
-```bash
-python predict.py --image_path /path/to/image.jpg
-```
-
 ## Conclusion
 
 This project demonstrates the potential of deep learning in wildlife conservation and biodiversity monitoring. The model can play a crucial role in safeguarding waterbird species, assisting researchers, and aiding in ecological conservation efforts.
-
----
-
-You can modify and extend the sections as necessary, such as including details on the dataset, model architecture, or specific steps used during the training process.
